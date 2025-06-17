@@ -9,14 +9,14 @@ Now for the exact measurements. I have created scenarios that could occur if Ed 
 | Scenerio | Chips scored | Total chips |
 | -------- | ------- | ------- |
 | Blueprint on Hanging Chad (what Ed played) | 2,332,998 | 2,466,908 |
-| Blueprint on Hanging Chad, but only 1 king (2 would be enough) | 1,044,288 | 1,178,198 |
-| Blueprint on hanging chad, but no glass | 200,406 | 334,316 |
-| Blueprint on baron (good to know I wouldn't have been banned ![image](https://github.com/user-attachments/assets/8d3fc710-d9ad-4f78-8e3a-d780148b7c1d) ) | 1,961,577 | 2,095,487 |
-| Blueprint on baron, but no glass | 457,881 | 591,791 |
-| Old setup with Gluttenous Joker (no Baron nor Campfire) | 413,586 | 547,496 |
+| Blueprint on Hanging Chad, but only 1 King (2 would be enough) | 1,044,288 | 1,178,198 |
+| Blueprint on hanging chad, but no Glass | 200,406 | 334,316 |
+| Blueprint on Baron (good to know I wouldn't have been banned ![image](https://github.com/user-attachments/assets/8d3fc710-d9ad-4f78-8e3a-d780148b7c1d) ) | 1,961,577 | 2,095,487 |
+| Blueprint on Baron, but no Glass | 457,881 | 591,791 |
+| Old setup with Gluttenous Joker (no Baron or Campfire) | 413,586 | 547,496 |
 | If Ed didn't opt in for Campfire | 1,166,499 | 1,300,409 |
 
-Believe it or not. The blueprint on the Hanging Chad can be improved with one simple swap. The net profit is 0 chips, but you get to kill the final boss with an AK-47 ![image](https://github.com/user-attachments/assets/9492eb55-59b7-4e12-bacd-31beb645e5f2)
+Believe it or not. The Blueprint on the Hanging Chad combo can be improved with one simple swap. The net profit is 0 chips, but you get to kill the final boss with an AK-47 ![image](https://github.com/user-attachments/assets/9492eb55-59b7-4e12-bacd-31beb645e5f2)
 
 ![image](https://github.com/user-attachments/assets/a4e06aea-a3c7-434a-9946-2a23dcf623aa)
 
