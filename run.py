@@ -27,6 +27,23 @@ clubs_4 = Card("Clubs 4", 4)
 #     DriversLicence()
 # ])
 
+# blueprint on hanging chad, but no Campfire ... 2 332 998
+evaluate(flush, [
+    clubs_3_glass,
+    HangingChad(clubs_3_glass), # blueprint
+    HangingChad(clubs_3_glass),
+    clubs_A_mult,
+    clubs_K,
+    clubs_7,
+    clubs_4,
+    Baron(),
+    Baron(),
+    Baron(),
+    Foil(),
+    Holographic(),
+    DriversLicence()
+])
+
 # blueprint on hanging chad, but only one King ... 1 044 288 + 133 910 = 1 178 198
 # evaluate(flush, [
 #     clubs_3_glass,
